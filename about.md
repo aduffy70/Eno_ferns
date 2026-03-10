@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: article
 title: About
 permalink: /about/
 modified: 2026-03-09

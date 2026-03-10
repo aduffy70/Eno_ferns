@@ -1,11 +1,11 @@
 ---
-layout: archive
+layout: article
 permalink: /
-title: "Latest Posts"
+title: "Home"
+modified: 2026-03-09
+image:
+  feature: "Chain_fern_1024x300.jpg"
+share: false
 ---
 
-<div class="tiles">
-{% for post in site.posts %}
-	{% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
+This is the home page

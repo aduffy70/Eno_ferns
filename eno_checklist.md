@@ -5,7 +5,6 @@ permalink: /enoriver/
 modified: 2026-03-09
 image:
   feature: "Chain_fern_1024x300.jpg"
-  credit: Aaron M. Duffy
 share: false
 ---
 
