@@ -2,21 +2,21 @@
 
 - title: Eno River checklist
   url: /enoriver/
-  excerpt: "Checklist of Ferns and Lycophytes at Eno River State Park"
+  excerpt: "Checklist of species at Eno River State Park"
   image:
 
 - title: Occoneechee checklist
   url: /occoneechee/
-  exerpt: "Checklist of Ferns and Lycophytes at Occoneechee Mountain State Natural Area"
+  excerpt: "Checklist of species at Occoneechee Mountain State Natural Area"
   image:
 
 - title: Taxonomy
   url: /taxonomy/
-  exerpt: "A description of the classification and relationships between species"
+  excerpt: "Classification and relationships between species"
   image:
 
 - title: About
   url: /about/
-  exerpt: "About this project"
+  excerpt: "About this project"
   image:
 
