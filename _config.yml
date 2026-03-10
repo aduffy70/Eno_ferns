@@ -1,4 +1,6 @@
-title: Skinny Bones
+# Site wide configuration
+
+title: Eno River Ferns
 description: Ferns and Lycophytes of Eno River SP and Occoneechee SNA
 logo: logo.png # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
@@ -23,9 +25,9 @@ plugins:
 
 
 # Site owner
-owner: "Aaron M. Duffy"
-  name: "Aaron"
-  email: "aduffy70@gmail.com
+owner:
+  name: "Aaron M. Duffy"
+  email: "aduffy70@gmail.com"
   twitter:
   google:
     ad-client:
