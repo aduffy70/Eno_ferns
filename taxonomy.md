@@ -9,4 +9,14 @@ share: false
 
 ---
 
-This is the page for a description of the relationships among species.
+# What is taxonomy?
+
+A short explanation. Also difference between taxonomy and systematics (taxonomy = identifying, naming and classifying; systematics = evolutionary relationships.
+
+# Taxonomy of Eno River Fern & Lycophyte species
+
+Table of taxonomic heirarchy
+
+# Systematics of Eno River Fern & Lycophyte species
+
+Phylogenetic tree showing relationships
