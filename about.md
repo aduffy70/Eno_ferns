@@ -26,11 +26,15 @@ What is and isn't included and why.
 
 # Who put this together?
 
-Me.
+Me. My background. Taxonomy, systematics, seed-free plants, science education. 
 
-# How can I contribute?
+# Where can I see these in the wild?
 
-iNaturalist. Contact info. 
+Recommendations for finding ferns. Common ones to watch for along all trails. Special ones to watch for in specific habitats. Reminder about not picking or harming.
+
+# How can I contribute to this project?
+
+Citizen science. Observing and learning. iNaturalist. Contact info. 
 
 # Where can I learn more?
 

@@ -13,10 +13,10 @@ share: false
 
 A short explanation. Also difference between taxonomy and systematics (taxonomy = identifying, naming and classifying; systematics = evolutionary relationships.
 
-# Taxonomy of Eno River Fern & Lycophyte species
+# Taxonomy of Eno River Ferns & Lycophytes
 
 Table of taxonomic heirarchy
 
-# Systematics of Eno River Fern & Lycophyte species
+# Systematics of Eno River Ferns & Lycophytes
 
 Phylogenetic tree showing relationships
