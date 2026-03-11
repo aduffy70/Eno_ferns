@@ -7,7 +7,7 @@ image:
   feature: "Chain_fern_1024x300.jpg"
 share: false
 ---
-Last updated:
+Last updated: {{ pages.modified }}
 
 # Species present
 
