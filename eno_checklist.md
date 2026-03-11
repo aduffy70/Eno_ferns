@@ -13,6 +13,7 @@ share: false
   .responsive-wrap iframe {
     width: 100%;
     height: 820px;
+    border:0;
   }
 </style>
 <div class="responsive-wrap">
@@ -21,4 +22,4 @@ share: false
 
 _Last updated: {{ page.modified }}_
 
-
+r
