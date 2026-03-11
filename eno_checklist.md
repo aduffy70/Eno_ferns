@@ -12,12 +12,13 @@ share: false
 <style>
   .responsive-wrap iframe {
     width: 100%;
+    height: 80%;
   }
 </style>
 <div class="responsive-wrap">
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZObelHK7ds_Oz3q9-AgSQYL5p54Atem2jsmbsc49tfwzYgwnn5R9GZP29rgcUtF5r1aaH5vf7P_aW/pubhtml?widget=true&amp;headers=true"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZObelHK7ds_Oz3q9-AgSQYL5p54Atem2jsmbsc49tfwzYgwnn5R9GZP29rgcUtF5r1aaH5vf7P_aW/pubhtml?widget=true&amp;headers=false"></iframe>
 </div>
 
 _Last updated: {{ page.modified }}_
-c
+d
 
