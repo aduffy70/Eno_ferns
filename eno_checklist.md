@@ -22,5 +22,6 @@ share: false
 
 _Last updated: {{ page.modified }}_
 
-[!Note] I can't distinguish Sceptridium biternatum from S. dissectum. 
+I can't distinguish Sceptridium biternatum from S. dissectum.
+{: .notice-info}
 
