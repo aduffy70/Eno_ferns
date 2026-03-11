@@ -7,12 +7,11 @@ image:
   feature: "Chain_fern_1024x300.jpg"
 share: false
 ---
-Last updated: {{ page.modified }}
 
 # Species present
 
-Table with species and evidence sources
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZObelHK7ds_Oz3q9-AgSQYL5p54Atem2jsmbsc49tfwzYgwnn5R9GZP29rgcUtF5r1aaH5vf7P_aW/pubhtml?widget=true&amp;headers=false"></iframe>
 
-# Species likely but not confirmed
+_Last updated: {{ page.modified }}_
 
-Table with species and sources
+
