@@ -11,7 +11,7 @@ share: false
 # Species present
 <style>
   .responsive-wrap iframe {
-    max-width: 100%;
+    width: 100%;
   }
 </style>
 <div class="responsive-wrap">
@@ -19,6 +19,5 @@ share: false
 </div>
 
 _Last updated: {{ page.modified }}_
-
-b
+c
 
