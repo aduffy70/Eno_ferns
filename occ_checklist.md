@@ -9,6 +9,9 @@ share: false
 ---
 
 # Species present
+
+[Evidence key](/images/evidence_key-no_border.png)
+
 <style>
   .responsive-wrap iframe {
     width: 100%;
@@ -19,8 +22,5 @@ share: false
 <div class="responsive-wrap">
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRwebGbt9cJ417RclrfQY-uAZyfV_mh0s2ACu4WcytPoMMnr596UFQrSx_pPZUCom0U2Cf0Rzs1WgSh/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false"></iframe>
 </div>
-
-Green check marks indicate species I have personally observed in the State Natural Area since 2019. Species without check marks have been reported in the State Natural Area through iNaturalist, recent herbarium records, or state biodiversity surveys.
-{: .notice-success}
 
 _Last updated: {{ page.modified }}_
