@@ -10,7 +10,7 @@ share: false
 
 # Species present
 
-[Evidence key](/images/evidence_key-no_border.png)
+![Evidence key](/images/evidence_key-no_border.png)
 
 <style>
   .responsive-wrap iframe {
