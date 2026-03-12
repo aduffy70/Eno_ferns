@@ -9,6 +9,9 @@ share: false
 ---
 
 # Species present
+
+![Evidence key](/images/evidence_key-no_border.png)
+
 <style>
   .responsive-wrap iframe {
     width: 100%;
