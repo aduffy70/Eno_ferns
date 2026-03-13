@@ -1,5 +1,6 @@
 ---
 layout: article
+title: Ferns and Lycophytes of Eno River State Park and Occoneechee Mountain State Natural Area
 permalink: /
 modified: 2026-03-09
 image:
