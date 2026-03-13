@@ -7,7 +7,7 @@ image:
 share: false
 ---
 
-# Ferns and Lycophytes of Eno River State Park and Occoneechee Mountain State Natural Area
+## Ferns and Lycophytes of Eno River State Park and Occoneechee Mountain State Natural Area
 
 This website documents the fern and lycophyte species known from Eno River State Park and Occoneechee Mountain State Natural Area in Durham and Orange Counties, North Carolina. The project compiles available records and field observations to produce species checklists for the fern occuring in these two Piedmont preserves.
 
